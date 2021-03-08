@@ -18,7 +18,7 @@
     }]
   }, {
     "name": "component"
-    ,"title": "组件"
+    ,"title": "教师管理"
     ,"icon": "layui-icon-component"
     ,"list": [{
       "name": "grid"
@@ -226,7 +226,7 @@
     }]
   }, {
     "name": "template"
-    ,"title": "页面"
+    ,"title": "学生管理"
     ,"icon": "layui-icon-template"
     ,"list": [{
       "name": "personalpage"
@@ -292,7 +292,7 @@
     }]
   }, {
     "name": "app"
-    ,"title": "应用"
+    ,"title": "学院管理"
     ,"icon": "layui-icon-app"
     ,"list": [{
       "name": "content"
@@ -326,28 +326,7 @@
       ,"jump": "app/workorder/list"
     }]
   }, {
-    "name": "senior"
-    ,"title": "高级"
-    ,"icon": "layui-icon-senior"
-    ,"list": [{
-      "name": "im"
-      ,"title": "通讯系统"
-    },{
-      "name": "echarts"
-      ,"title": "Echarts集成"
-      ,"list": [{
-        "name": "line"
-        ,"title": "折线图"
-      },{
-        "name": "bar"
-        ,"title": "柱状图"
-      },{
-        "name": "map"
-        ,"title": "地图"
-      }]
-    }]
-  }, {
-    "name": "user"
+    "name": "学员管理"
     ,"title": "用户"
     ,"icon": "layui-icon-user"
     ,"list": [{
@@ -390,10 +369,5 @@
         ,"title": "修改密码"
       }]
     }]
-  }, {
-    "name": "get"
-    ,"title": "授权"
-    ,"icon": "layui-icon-auz"
-    ,"jump": "system/get"
   }]
 }
